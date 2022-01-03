@@ -1,0 +1,13 @@
+export const FETCH_BOARDS = "FETCH BOARDS";
+export const ADD_BOARD = "ADD BOARD";
+export const DELETE_BOARD = "DELETE BOARD";
+export const EDIT_BOARD_NAME = "EDIT BOARD NAME";
+export const FETCH_LISTS = "FETCH LISTS";
+export const ADD_LIST = "ADD LIST";
+export const DELETE_LIST = "DELETE LIST";
+export const EDIT_LIST_NAME = "EDIT LIST NAME";
+export const FETCH_TODOS = "FETCH TODOS";
+export const ADD_TODO = "ADD TODO";
+export const DELETE_TODO = "DELETE TODO";
+export const TOGGLE_TODO = "TOGGLE TODO";
+export const SET_CURRENT_BOARD = "SET CURRENT BOARD";
